@@ -2,7 +2,7 @@ import os
  
 dir = "/mnt/"
 
-name_start = "Project789.988-"
+name_start = "string_to_remove"
 
 for root, dirs, files in os.walk(dir):
 
